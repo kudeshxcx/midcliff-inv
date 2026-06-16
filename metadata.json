@@ -1,0 +1,6 @@
+{
+  "name": "Midcliff Investments",
+  "description": "Premium industrial steel hardware, scrap metal trading, and local transport & logistics in Redcliff, Zimbabwe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
